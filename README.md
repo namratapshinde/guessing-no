@@ -1,2 +1,2 @@
 # guessing-no
-Exercize 
+Exersize 
